@@ -2,10 +2,8 @@ package com.example.demoworkshop.smartrefrshlayout
 
 import android.os.Bundle
 import android.view.LayoutInflater
-import android.view.View
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.example.demoworkshop.R
 import com.example.demoworkshop.databinding.ActivitySecondFloorDemoBinding
 
 
